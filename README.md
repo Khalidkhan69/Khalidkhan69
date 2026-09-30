@@ -1,8 +1,8 @@
 # 💫 Hi, I'm Khalid Ikram
-**Software Engineer|| Backend Developer || Cybersecurity Enthusiast & Learner**
+**Software Engineer|| Full Stack Developer || Networking And Cybersecurity Enthusiast & Learner**
 
 - 🌱 **I’m currently learning:** Cybersecurity
-- 👯 **I’m looking for internship in:** Backend Development, Cybersecurity
+- 👯 **I’m looking for internship in:** Full Stack Development, Cybersecurity, Networking
 
 
 ## 🌐 Socials:
