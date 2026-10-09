@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Khalid Ikram
 **Software Engineer|| Full Stack Developer || Networking And Cybersecurity Enthusiast & Learner**
 
-- 🌱 **I’m currently learning:** Cybersecurity
+- 🌱 **I’m currently learning:** Networking 
 - 👯 **I’m looking for internship in:** Full Stack Development, Cybersecurity, Networking
 
 
